@@ -616,6 +616,7 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     Standalone: UEE
+    WebGL: UEE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
